@@ -1,0 +1,12 @@
+import {
+  LOGIN_ROUTE_OBJECT,
+  COMPONENT_ROUTE_OBJECT,
+  ROUTE_OBJECT,
+} from "./routeObjects";
+
+const CONSTANTS = {
+  ROUTE_OBJECT,
+  LOGIN_ROUTE_OBJECT,
+  COMPONENT_ROUTE_OBJECT,
+};
+export default CONSTANTS;
